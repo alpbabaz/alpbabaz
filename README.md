@@ -2,7 +2,7 @@
 
 I'm currently working on automation scripts & networking.
 
-![Badge](https://img.shields.io/badge/alp.dev-blue?style=flat-square) ![Discord](https://img.shields.io/badge/@yourdiscord-green?style=flat-square&logo=discord)
+![Badge](https://img.shields.io/badge/alp.dev-blue?style=flat-square) ![Discord](https://img.shields.io/badge/@fy0w-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 💫 *Don't forget to automate the routine* 💫
 
