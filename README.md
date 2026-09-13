@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey 👋, I'm Alp
 
-<!--
-**alpbabaz/alpbabaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on automation scripts & networking.
 
-Here are some ideas to get you started:
+![Badge](https://img.shields.io/badge/alp.dev-blue?style=flat-square) ![Discord](https://img.shields.io/badge/@yourdiscord-green?style=flat-square&logo=discord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 *Don't forget to automate the routine* 💫
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" alt="Coding GIF">
+
+### ⚡ A Few Quick Facts
+
+* 🔭 Building high-performance Node.js & Go scripts.
+* 🧠 Learning Reverse Engineering and Low-Level Networking.
+* 💬 Ping me about JS-GO-PY.
+* 🎮 Fun Fact: CS2 & LoL player.
+
+<br />
+
+### 🚀 Some Tools I Use
+
+`JavaScript` `Node.js` `Go` `Python` `Bash` `VS Code` `Linux` `Termux`
