@@ -19,4 +19,4 @@ I'm currently working on automation scripts & networking.
 
 ### 🚀 Some Tools I Use
 
-`JavaScript` `Node.js` `Go` `Python` `Bash` `VS Code` `Linux` `Termux`
+`JavaScript` `Node.js` `Go` `Python` `VS Code` `Linux` `Termux`
