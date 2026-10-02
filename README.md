@@ -6,7 +6,7 @@ I'm currently working on automation scripts & networking.
 
 💫 *Don't forget to automate the routine* 💫
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUGGAC3P4PP93838/giphy.gif" alt="Coding GIF">
+<img align="right" width="400" src="https://giphy.com/gifs/after-effects-trapcode-bad-sectors-2tTiCSfEEP5QS5TjGr">
 
 ### ⚡ A Few Quick Facts
 
