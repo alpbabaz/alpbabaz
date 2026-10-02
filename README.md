@@ -6,7 +6,7 @@ I'm currently working on automation scripts & networking.
 
 💫 *Don't forget to automate the routine* 💫
 
-<img align="right" width="400" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">
+<img align="right" width="400" src="">
 
 ### ⚡ A Few Quick Facts
 
